@@ -3,9 +3,9 @@ title: "Мова-меч. Як говорила радянська імперія
 author: "Євгенія Кузнєцова"
 country: "Україна"
 language: "українська"
-status: reading
+status: read
 started: 2026-07-10
-finished: 
+finished: 2026-07-18
 page: 
 format:
 owned:

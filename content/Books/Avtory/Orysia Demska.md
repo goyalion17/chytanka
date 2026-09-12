@@ -1,5 +1,5 @@
 ---
-title: "Євгенія Кузнєцова"
+title: "Орися Демська"
 country: "Україна"
 tags: [author]
 ---
@@ -8,7 +8,7 @@ _Сторінка генерується автоматично з творів 
 
 ## Твори
 
-- [[Books/Tvory/Mova-mech. Iak hovoryla radianska imperiia|Мова-меч. Як говорила радянська імперія]] — 2026, read
+- [[Books/Tvory/Odesa stepom i morem rozkazana istoriia|Одеса степом і морем розказана історія]] — 2026, read
 
 ## Повʼязані
 

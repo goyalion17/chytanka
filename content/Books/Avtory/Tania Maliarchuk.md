@@ -1,5 +1,5 @@
 ---
-title: "Євгенія Кузнєцова"
+title: "Таня Малярчук"
 country: "Україна"
 tags: [author]
 ---
@@ -8,7 +8,7 @@ _Сторінка генерується автоматично з творів 
 
 ## Твори
 
-- [[Books/Tvory/Mova-mech. Iak hovoryla radianska imperiia|Мова-меч. Як говорила радянська імперія]] — 2026, read
+- [[Books/Tvory/Zabuttia|Забуття]] — 2026, read
 
 ## Повʼязані
 

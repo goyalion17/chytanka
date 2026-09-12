@@ -6,7 +6,7 @@ language: українська
 status: reading
 started: 2026-06-20
 finished:
-page: 72
+page: 285
 format:
 owned:
 cover:

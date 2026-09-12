@@ -1,19 +1,17 @@
 ---
-title: Тисяча доріг
-author: Марія Савчин
-country: Україна
-language: українська
-status: reading
-started: 2026-06-07
-finished:
-page: 210
+title: "До маяка"
+author: "Вірджинія Вулф"
+country: "Великобританія"
+language: "українська"
+status: read
+started: 2026-08-06
+finished: 2026-08-10
+page: 
 format:
 owned:
 cover:
 genre: []
-tags:
-  - book
-  - upa
+tags: [book]
 source: google-sheets
 ---
 
