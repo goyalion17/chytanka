@@ -8,7 +8,7 @@ _Сторінка генерується автоматично з творів 
 
 ## Твори
 
-- [[Books/Tvory/Kholodnyi Iar|Холодний Яр]] — 2026, reading
+- [[Books/Tvory/Kholodnyi Iar|Холодний Яр]] — 2026, read
 
 ## Повʼязані
 

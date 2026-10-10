@@ -3,10 +3,10 @@ title: "Холодний Яр"
 author: "Юрій Горліс-Горський"
 country: "Україна"
 language: "українська"
-status: reading
+status: read
 started: 2026-03-15
-finished: 
-page: 305
+finished: 2026-09-27
+page:
 format:
 owned:
 cover:

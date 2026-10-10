@@ -3,10 +3,10 @@ title: Моя одисея
 author: Ірина Тимочко-Камінська
 country: Україна
 language: українська
-status: reading
+status: read
 started: 2026-06-20
-finished:
-page: 285
+finished: 2026-09-13
+page:
 format:
 owned:
 cover:

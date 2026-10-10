@@ -4,7 +4,7 @@ country: "Україна"
 tags: [author]
 ---
 
-_Сторінка генерується автоматично з творів у читанці (21)._
+_Сторінка генерується автоматично з творів у читанці (22)._
 
 ## Твори
 
@@ -29,6 +29,7 @@ _Сторінка генерується автоматично з творів 
 - [[Books/Tvory/Hospod, Boh vash,  se polumia zherushche, Boh revnyvyi|Господь, Бог ваш, — се полум’я жеруще, Бог ревнивий]] — 2026, read
 - [[Books/Tvory/Velyka stattia pro malyi virsh|Велика стаття про малий вірш]] — 2026, read
 - [[Books/Tvory/Dva styli literaturnoi krytyky|Два стилі літературної критики]] — 2026, read
+- [[Books/Tvory/Tryptykh pro movu|Триптих про мову]] — 2026, read
 
 ## Повʼязані
 

@@ -8,7 +8,7 @@ _Сторінка генерується автоматично з творів 
 
 ## Твори
 
-- [[Books/Tvory/Moia odyseia|Моя одисея]] — 2026, reading
+- [[Books/Tvory/Moia odyseia|Моя одисея]] — 2026, read
 
 ## Повʼязані
 

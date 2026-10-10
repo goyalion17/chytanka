@@ -4,7 +4,7 @@ _Сторінка генерується автоматично (`/book-sync`)._
 
 | Автор_ка | Країна | Творів |
 |---|---|---|
-| [[Books/Avtory/Iurii Shevelov\|Юрій Шевельов]] | Україна | 21 |
+| [[Books/Avtory/Iurii Shevelov\|Юрій Шевельов]] | Україна | 22 |
 | [[Books/Avtory/Lesia Ukrainka\|Леся Українка]] | Україна | 16 |
 | [[Books/Avtory/Oksana Zabuzhko\|Оксана Забужко]] | Україна | 10 |
 | [[Books/Avtory/Olha Kobylianska\|Ольга Кобилянська]] | Україна | 5 |
@@ -23,6 +23,8 @@ _Сторінка генерується автоматично (`/book-sync`)._
 | [[Books/Avtory/Valer'ian Pidmohylnyi\|Валер'ян Підмогильний]] | Україна | 2 |
 | [[Books/Avtory/Mykola Kulish\|Микола Куліш]] | Україна | 2 |
 | [[Books/Avtory/Nadiia Surovtsova\|Надія Суровцова]] | Україна | 2 |
+| [[Books/Avtory/Natalia Romanovych-Tkachenko\|Наталя Романович-Ткаченко]] | Україна | 2 |
+| [[Books/Avtory/Orysia Demska\|Орися Демська]] | Україна | 2 |
 | [[Books/Avtory/Tamara Horikha Zernia\|Тамара Горіха Зерня]] | Україна | 2 |
 | [[Books/Avtory/Timoti Snaider\|Тімоті Снайдер]] | США | 2 |
 | [[Books/Avtory/Ulas Samchuk\|Улас Самчук]] | Україна | 2 |
@@ -47,20 +49,21 @@ _Сторінка генерується автоматично (`/book-sync`)._
 | [[Books/Avtory/Kateryna Shmeha\|Катерина Шмега]] | Україна | 1 |
 | [[Books/Avtory/Liudmyla Starytska-Cherniakhivska\|Людмила Старицька-Черняхівська]] | Україна | 1 |
 | [[Books/Avtory/Liudmyla Taran\|Людмила Таран]] | Україна | 1 |
+| [[Books/Avtory/Lidiia Horbachova\|Лідія Горбачова]] | Україна | 1 |
 | [[Books/Avtory/Maik Iohansen\|Майк Йогансен]] | Україна | 1 |
 | [[Books/Avtory/Marko Vovchok\|Марко Вовчок]] | Україна | 1 |
 | [[Books/Avtory/Mariia Lapii\|Марія Лапій]] | Україна | 1 |
 | [[Books/Avtory/Mariia Savchyn\|Марія Савчин]] | Україна | 1 |
 | [[Books/Avtory/Mykola Bazhan\|Микола Бажан]] | Україна | 1 |
 | [[Books/Avtory/Natalia Kobrynska\|Наталя Кобринська]] | Україна | 1 |
-| [[Books/Avtory/Natalia Romanovych-Tkachenko\|Наталя Романович-Ткаченко]] | Україна | 1 |
 | [[Books/Avtory/Oksana Levytska\|Оксана Левицька]] | Україна | 1 |
 | [[Books/Avtory/Oksana Nakhlik\|Оксана Нахлік]] | Україна | 1 |
 | [[Books/Avtory/Oleksandra Salii\|Олександра Салій]] | Україна | 1 |
 | [[Books/Avtory/Olena Pashuk\|Олена Пашук]] | Україна | 1 |
 | [[Books/Avtory/Olha Iablonska\|Ольга Яблонська]] | Україна | 1 |
-| [[Books/Avtory/Orysia Demska\|Орися Демська]] | Україна | 1 |
+| [[Books/Avtory/Ostap Vyshnia\|Остап Вишня]] | Україна | 1 |
 | [[Books/Avtory/Roksolana Zharkova\|Роксолана Жаркова]] | Україна | 1 |
+| [[Books/Avtory/Rostyslav Semkiv\|Ростислав Семків]] | Україна | 1 |
 | [[Books/Avtory/Slavenka Drakulich\|Славенка Дракуліч]] | Хорватія | 1 |
 | [[Books/Avtory/Solomiia Pavlychko\|Соломія Павличко]] | Україна | 1 |
 | [[Books/Avtory/Solomiia Trylovska\|Соломія Трильовська]] | Україна | 1 |
@@ -72,6 +75,8 @@ _Сторінка генерується автоматично (`/book-sync`)._
 | [[Books/Avtory/Tania Maliarchuk\|Таня Малярчук]] | Україна | 1 |
 | [[Books/Avtory/Tetiana Danyliuk-Tereshchuk\|Тетяна Данилюк-Терещук]] | Україна | 1 |
 | [[Books/Avtory/Uliana Kravchenko\|Уляна Кравченко]] | Україна | 1 |
+| [[Books/Avtory/Kharytia Kononenko\|Харитя Кононенко]] | Україна | 1 |
+| [[Books/Avtory/Khrystia Alchevska\|Христя Алчевська]] | Україна | 1 |
 | [[Books/Avtory/Iurii Horlis-Horskyi\|Юрій Горліс-Горський]] | Україна | 1 |
 | [[Books/Avtory/Iurii Kosach\|Юрій Косач]] | Україна | 1 |
 | [[Books/Avtory/Iurii Ianovskyi\|Юрій Яновський]] | Україна | 1 |
